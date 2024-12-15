@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413499605956",
+    "project_id": "patta-ec-7bcfb",
+    "storage_bucket": "patta-ec-7bcfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413499605956:android:041bbd400871f12eb45a91",
+        "android_client_info": {
+          "package_name": "com.yourprojectname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7t0deCb9E1LU750HKt5avqWn3FLOqKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
