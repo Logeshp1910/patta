@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "413499605956",
-    "project_id": "patta-ec-7bcfb",
-    "storage_bucket": "patta-ec-7bcfb.firebasestorage.app"
+    "project_number": "706281622668",
+    "project_id": "pattachittaec-app",
+    "storage_bucket": "pattachittaec-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:413499605956:android:041bbd400871f12eb45a91",
+        "mobilesdk_app_id": "1:706281622668:android:c0c4dcb22cfbb86658bfa9",
         "android_client_info": {
-          "package_name": "com.yourprojectname"
+          "package_name": "com.tnpattachittaandec"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJ7t0deCb9E1LU750HKt5avqWn3FLOqKc"
+          "current_key": "AIzaSyDv1uHM8OtTIGFIMVl9J_0XYXah22-qk9c"
         }
       ],
       "services": {
